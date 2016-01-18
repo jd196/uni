@@ -33,7 +33,7 @@ int main()
            break;
            case '*' : r = times(a,b);
            break;	   
-           case '/' : r = (a,b);
+           case '/' : r = div(a,b);
            break;	   
            case '-' : r = (a,b);
            	      break;
