@@ -54,3 +54,5 @@ Option      Description of Output
 --before    only commits before the date will be shown
 
 --since  shows commits since date specified
+
+git log --pretty=oneline
