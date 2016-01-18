@@ -35,7 +35,7 @@ int main()
            break;	   
            case '/' : r = div(a,b);
            break;	   
-           case '-' : r = (a,b);
+           case '-' : r = sub(a,b);
            	      break;
            case 'q' : break;
            default  : op='?';
