@@ -33,9 +33,9 @@ int main()
            break;
            case '*' : r = times(a,b);
            break;	   
-           case '/' : r = div(a,b);
+           case '/' : r = (a,b);
            break;	   
-           case '-' : r = sub(a,b);
+           case '-' : r = (a,b);
            	      break;
            case 'q' : break;
            default  : op='?';
